@@ -2,3 +2,4 @@
 
 print("hello world !\n")
 print(" thx ")
+print ("1")
